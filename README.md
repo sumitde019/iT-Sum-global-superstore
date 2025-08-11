@@ -14,6 +14,10 @@ The **iT-Sum Global Superstore** is a dynamic Power BI dashboard designed to pro
 - 🎯 Key Performance Indicators (KPIs) at a glance
 - 🔍 Filter and drill-down capabilities
 
+## Demo Video 🎥  
+Watch the dashboard in action:  
+[▶️ iT-Sum Global Superstore Demo](https://drive.google.com/file/d/1PFi4HluES6s4Tq-AdhUchX0kkJOL-Q4x/view?usp=drive_link)
+
 ## Data Sources
 - Global Superstore Sales Data (CSV/Excel format)
 - Dimensions: Region, Country, Segment, Category, Sub-Category, Order Date
